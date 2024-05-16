@@ -8,4 +8,4 @@ Mock audits created by Cyfrin to learn by practicing
 
 ### Code4rena
 
-- Coming soon
+- Dyad (not accepted findings due to error in submission)
