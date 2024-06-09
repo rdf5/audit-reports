@@ -1,10 +1,10 @@
 # Audits by rdf5
 
-| Platform | Contest | Highs | Meds | Lows | Link |
+| Platform | Contest | Highs | Meds | Lows |
 |----------|----------|----------|----------|----------|
-| Codehawks (First Flight) | Soulmate | 2 | 1 | 1 |
-| Codehawks (First Flight) | Kitty Connect🎖️ | 4 | 1 | 1 |
-| Codehawks (First Flight) | Baba Marta📜 | 2 | 1 |  |
+| Codehawks (First Flight) | [Soulmate](https://www.codehawks.com/contests/clsathvgg0005yhmxmoe455mm) | 2 | 1 | 1 |
+| Codehawks (First Flight) | [Kitty Connect🎖️](https://www.codehawks.com/contests/clu7ddcsa000fcc387vjv6rpt) | 4 | 1 | 1 |
+| Codehawks (First Flight) | [Baba Marta📜](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup) | 2 | 1 |  |
 | Sherlock | Tokensoft Distributor |  | 1 |  |
 
 🎖️ Top 3
