@@ -1,6 +1,6 @@
 # Audits by rdf5
 
-| Platform | Contest | Highs | Meds | Lows |  
+| Platform | Contest | Highs | Meds | Lows | Link |
 |----------|----------|----------|----------|----------|
 | Codehawks (First Flight) | Soulmate | 2 | 1 | 1 |
 | Codehawks (First Flight) | Kitty Connect🎖️ | 4 | 1 | 1 |
