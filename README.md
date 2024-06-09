@@ -1,11 +1,12 @@
 # Audits by rdf5
-### First Flights
-Mock audits created by Cyfrin to learn by practicing 
 
-- Soulmate: 2 Highs, 1 Medium and 1 Low 
-- Kitty Connect: 4 Highs, 1 Medium and 1 Low (top 3)
-- Baba Marta: 2 Highs and 1 Medium (1 finding selected for final report)
+| Platform | Contest | Highs | Meds | Lows |  
+|----------|----------|----------|----------|----------|
+| Codehawks (First Flight) | Soulmate | 2 | 1 | 1 |
+| Codehawks (First Flight) | Kitty Connect🎖️ | 4 | 1 | 1 |
+| Codehawks (First Flight) | Baba Marta📜 | 2 | 1 |  |
+| Sherlock | Tokensoft Distributor |  | 1 |  |
 
-### Code4rena
+🎖️ Top 3
 
-- Dyad (not accepted findings due to error in submission)
+📜 Finding selected for report
