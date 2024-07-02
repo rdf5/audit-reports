@@ -1,4 +1,4 @@
-# My portfolio of audits
+# My Portfolio of Audits
 
 | Platform | Contest | Highs | Meds | Lows | Payout |
 |----------|----------|----------|----------|----------|----------|
