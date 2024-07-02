@@ -7,6 +7,7 @@
 | Codehawks (First Flight) | [Baba Marta](https://www.codehawks.com/contests/cluseb1bf0001s4tjl2rzajup)📜 | 2 | 1 |  | |
 | Sherlock | [Tokensoft Distributor](https://audits.sherlock.xyz/contests/285)🎖️ |  | 1 |  | $303.16|
 | Code4rena | [Munchables](https://code4rena.com/audits/2024-05-munchables)📜|  | 1 |  | $0.02 |
+| Code4rena | [Noya](https://code4rena.com/audits/2024-04-noya)| 1 |  |  | $8.21 |
 
 🎖️ Top 3
 
