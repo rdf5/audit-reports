@@ -8,6 +8,7 @@
 | Sherlock | [Tokensoft Distributor](https://audits.sherlock.xyz/contests/285)🎖️ |  | 1 |  | $303.16|
 | Code4rena | [Munchables](https://code4rena.com/audits/2024-05-munchables)📜|  | 1 |  | $0.02 |
 | Code4rena | [Noya](https://code4rena.com/audits/2024-04-noya)| 1 |  |  | $8.21 |
+| Code4rena | [Vultisig](https://code4rena.com/audits/2024-06-vultisig)| 1 |  |  | $6.78 |
 
 🎖️ Top 3
 
