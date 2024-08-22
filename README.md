@@ -10,6 +10,7 @@
 | Code4rena | [Noya](https://code4rena.com/audits/2024-04-noya)| 1 |  |  | $8.21 |
 | Code4rena | [Vultisig](https://code4rena.com/audits/2024-06-vultisig)| 1 |  |  | $6.78 |
 | Code4rena | [Munchables](https://code4rena.com/audits/2024-07-munchables)| 1 |  |  | $29.18 |
+| Sherlock | [MagicSea](https://audits.sherlock.xyz/contests/437)📜| 1 | 2 |  | $165.18 |
 
 🎖️ Top 3
 
