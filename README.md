@@ -12,6 +12,7 @@
 | Code4rena | [Munchables](https://code4rena.com/audits/2024-07-munchables)| 1 |  |  | $29.18 |
 | Sherlock | [MagicSea](https://audits.sherlock.xyz/contests/437)📜| 1 | 2 |  | $165.18 |
 | Code4rena | [TratiForge](https://code4rena.com/audits/2024-07-traitforge) | | 2 |  | $0.04 |
+| Codehawks | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&t=leaderboard&page=1) 🎖️📜| 6 | 1 | 2 | $3856.24 |
 
 🎖️ Top 3
 
