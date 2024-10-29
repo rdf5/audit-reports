@@ -14,6 +14,7 @@
 | Code4rena | [TratiForge](https://code4rena.com/audits/2024-07-traitforge) | | 2 |  | $0.04 |
 | Codehawks | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/results?lt=contest&sc=reward&sj=reward&t=leaderboard&page=1) 🎖️📜| 6 | 1 | 2 | $3856.24 |
 | Code4rena | [Phi](https://code4rena.com/audits/2024-08-phi) | 1 | 1 |  | $17.56 |
+| Sherlock | [Flayer](https://audits.sherlock.xyz/contests/468) | 1 | 1 |  |$140.87|
 
 🎖️ Top 3
 
